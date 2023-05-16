@@ -4,7 +4,7 @@
   <br>
   
   ## About Me:
-Im a passionate self-taught Frontend Web Developer located in England, who likes to work with JavaScript/ReactJS, and Tailwindcss. My interest in web development started in 2020, during the pandemic, playing with WordPress and creating myself a website and using Adobe Illustrator to create illustrations for my portfolio. I have completed numerous Udemy courses, learning the fundamentals, as well as the Colt Steele bootcamp throughout 2021/2022. I finished the Scrimba Front End Career Path in May, 2023, and will continue to use their platform to further enhance my knowledge in web dev technologies. 
+Im a passionate self-taught Frontend Web Developer located in England, who likes to work with JavaScript/ReactJS, and Tailwindcss. My interest in web development started in 2020, where eventually I found the Scrimba platform, and completed the Front End Career Path in May, 2023, and will continue to use their platform to further enhance my knowledge in web dev technologies. 
   
   <br>
 
