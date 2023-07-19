@@ -8,11 +8,11 @@ Im a passionate self-taught Frontend Web Developer located in England, who likes
   
   <br>
 
-- 🌱 I'm currently learning ReactJS, with Tailwind
+- 🌱 I'm currently learning NodeJS
 - 🕺  I am open to work, remote or on-site within the UK
 - 💞️ Eager to help in any project, within my capabilities
-- 💪 I enjoy completing challenges via Frontend Mentor
-- 🥅 My goal for 2023 is to fully understand ReactJS, and land a job ...
+- 💪 I enjoy challenges!
+- 🥅 My goal for 2023 is to learn some backend = NodeJS, ExpressJS and MongoDB.
 - ❤️ I love cats, Coffee, camping, and visiting Poland
 <br>
 
